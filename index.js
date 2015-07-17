@@ -28,7 +28,6 @@ function a2cPrefixer(css, opts) {
               value: '1'
         });
       }
-
   });
 }
 
