@@ -1,0 +1,25 @@
+{
+  "name": "a2c-prefixer",
+  "version": "0.0.1",
+  "description": "Plugin para adicionar prefixos em arquivos CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielxavier/a2c-prefixer"
+  },
+  "keywords": [
+    "prefixer",
+    "a2c",
+    "gulp",
+    "css"
+  ],
+  "author": "Gabriel Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielxavier/a2c-prefixer/issues"
+  },
+  "homepage": "https://github.com/gabrielxavier/a2c-prefixer"
+}
